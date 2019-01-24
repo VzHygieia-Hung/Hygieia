@@ -20,7 +20,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import static springfox.documentation.builders.PathSelectors.regex;
 
 /**
- * Application configuration and bootstrap
+ * Application configuration and bootstrap - modified by HL from Verizon for code contribution testing
  */
 @SpringBootApplication
 @EnableSwagger2
